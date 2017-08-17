@@ -1,0 +1,45 @@
+.table-hover thead tr:hover th,
+.table-hover tbody tr:hover td {
+    background-color: #E2E2D4;
+}
+.table-caption{
+    font-style: italic;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-size: medium;
+    background-color: #A3A399;
+}
+.margin-top-30{
+    margin-top: 50px;
+}
+.margin-bottom-30{
+    margin-bottom: 50px;
+}
+.back-ground{
+    align-self: center;
+    background-image: url("b5.jpg");
+    background-size: 100%;
+}
+.border{
+    border-style: solid;
+    border-width: 1px;
+    background-color: transparent;
+}
+
+.margin-top-15{
+    margin-top: 15px;
+}
+.button-file{
+
+}
+.contain-box{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#tab{
+    background-color: transparent ;
+}
+.table-th{
+    background-color: #9FF781;
+}
